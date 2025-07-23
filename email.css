@@ -1,0 +1,26 @@
+body{
+    background-color: blanchedalmond;
+}
+#email {
+    margin-top: 50px;
+    padding: 50px;
+    width: 500px;
+    border: 10px solid red;
+}
+#Confidential {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    border: 2px solid red;
+    transform: rotate(10deg);
+}
+#Topsecret {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    border: 2px solid red;
+    transform: rotate(10deg);
+}
+.Blur{
+    filter: blur(3px);
+}
